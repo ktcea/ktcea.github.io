@@ -1,12 +1,12 @@
 # Site settings
-title: Sixper Garden
-SEOTitle: 六柿庭园 | Sixper Garden
+title: KTCEA
+SEOTitle: 京都伝統文化交流会 | KTCEA
 header-img: img/home-bg.jpg
 #email: xxx@gmail.com
 description: ""
 keyword: ""
-url: "http://li-huiyong.github.io/garden/"              # your host, for absolute URL
-baseurl: "/garden"         # for example, '/blog' if your blog hosted on 'host/blog'
+url: "https://ktcea.github.io/"              # your host, for absolute URL
+baseurl: "/"         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
@@ -15,11 +15,11 @@ RSS: false
 #weibo_username:     none
 #zhihu_username:     none
 #twitter_username:  none
-email: "mailto:rikeiyuu@gmail.com"
+email: "mailto:ktcea.office@gmail.com"
 facebook_username:  lihuiyong123
 github_username:    li-huiyong
 bilibili_url: "https://space.bilibili.com/399438306"
-website_url: "http://li-huiyong.github.io/"
+website_url: "https://ktcea.github.io/"
 
 
 # Build settings
