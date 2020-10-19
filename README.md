@@ -1,2 +1,2 @@
-# ktcea.github.io
-Kyoto Traditional Cultural Exchange Association (KTCEA)
+# KTCEA
+[Kyoto Traditional Cultural Exchange Association](https://ktcea.github.io/)
