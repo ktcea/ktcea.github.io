@@ -1,0 +1,22 @@
+---
+layout:     post
+title:      "Welcome to sixper garden!"
+subtitle:   " \"Beautiful garden, enjoy life\""
+date:       2019-06-15
+author:     "Lihy"
+header-img: "img/home-bg.jpg"
+tags:
+    - Life
+---
+
+> “Yeah It's on. ”
+
+
+## Hello
+
+Welcome to sixper garden!
+
+It's an explorative garden to represent traditional beauty using modern technologies. More interesting topics will be introduced including the beauty of Nature, Design, Painting, Poem, Drama, Music, Dance, Handicraft.
+
+Wish you enjoy it and any feedback could be sent to my email (rikeiyuu [at] gmail.com).
+
